@@ -47,7 +47,7 @@ class MainActivity : AppCompatActivity() {
 
             runOnUiThread {
                 // 동기코드 : 앞에서 돌아가는 코드 ( view, 어댑터 설정, .setText, 뷰가 보이는지 등 )
-                RecyclerView.adapter =
+                // RecyclerView.adapter =
             }
         }
     }
